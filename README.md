@@ -1,5 +1,5 @@
 # ProotBoop
-This repositiry will contain the public source code for the ProotBoop OS, protocol information and hardware designs.
+This repository will contain the public source code for the ProotBoop OS, protocol information and hardware designs.
 
 ProotBoop is an open and free set of hardware and software intended to create an interoperable ecosystem for fursuit and cosplay electronics.
 
